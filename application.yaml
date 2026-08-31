@@ -8,8 +8,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/your-org/your-repo.git'  # Thay bằng URL Git của bạn
-    targetRevision: HEAD                                   # Nhánh (VD: main / master / commit / tag)
+    repoURL: 'https://github.com/themingw666/test.git'  # Thay bằng URL Git của bạn
+    targetRevision: master                                   # Nhánh (VD: main / master / commit / tag)
     path: apps                                             # Đường dẫn thư mục chứa YAML trong Git repo
 
   destination:
