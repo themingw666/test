@@ -9,8 +9,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://git-cmcdtqg.mbfs.vn/dev-sec-ops/gitops.git
-    targetRevision: master
+    repoURL: https://github.com/themingw666/test.git
+    targetRevision: argocd
     path: environments/dev/project-a/service-1
   destination:
     server: https://kubernetes.default.svc
